@@ -25,3 +25,5 @@ Unsupervised Learning model used to cluster groups of crypto currencies based on
 # Conclusion
 
 After visually analyzing the cluster analysis results, the impact of using fewer features to cluster the data using K-Means in a PCA model resulted in two distinct clusters that are closer to each other than the original model. Only one coin represents group 2 & 3's clusters in the PCA scatter plot.
+
+[Linkedin](linkedin.com/in/phil-mart) 
